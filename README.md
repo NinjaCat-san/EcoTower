@@ -8,6 +8,6 @@ siempre recordar hacer un commit de sus avances para que se guarden localmente y
 prestar atención a la rama (branch) del proyecto a la cual se está haciendo un commit y fetch origin.
 
 para trabajar con el repositorio es necesario copiar el link al repositorio (que dejaré tanto en el server de Discord como en la descripción del grupo de Whatsapp)
-e ir a Github Desktop > File > Clone Repository y pegar el link.
+e ir a Github Desktop > File > Clone Repository > URL y pegar el link.
 
 paz y fortuna.
